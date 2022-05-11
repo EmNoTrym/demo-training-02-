@@ -6,5 +6,26 @@ namespace test_t4
 {
     class Person
     {
+        private string name { get; set; }
+        private int age { get; set; }
+
+        Person(string name, int age)
+        {
+            this.name = name;
+            this.age = age;
+        }
+
+        public string older(Person a)
+        {
+            if (a.age > this.age)
+            {
+                return a.name;
+            }
+
+            else
+            {
+                return this.name;
+            }
+        }
     }
 }
