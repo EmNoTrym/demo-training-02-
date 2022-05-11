@@ -27,5 +27,18 @@ namespace test_t4
                 return this.name;
             }
         }
+
+        public string younger(Person a)
+        {
+            if (a.age > this.age)
+            {
+                return this.name;
+            }
+
+            else
+            {
+                return a.name;
+            }
+        }
     }
 }
