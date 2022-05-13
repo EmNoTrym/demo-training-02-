@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\bin\Debug\netcoreapp3.1\csharp-t6.exe
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\bin\Debug\netcoreapp3.1\csharp-t6.deps.json
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\bin\Debug\netcoreapp3.1\csharp-t6.runtimeconfig.json
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\bin\Debug\netcoreapp3.1\csharp-t6.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\bin\Debug\netcoreapp3.1\csharp-t6.dll
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\bin\Debug\netcoreapp3.1\csharp-t6.pdb
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.dll
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.pdb
+C:\Users\Administrator\Documents\Clone Repos\demo-training-02\csharp-t6\obj\Debug\netcoreapp3.1\csharp-t6.genruntimeconfig.cache
